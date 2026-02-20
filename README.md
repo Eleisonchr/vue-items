@@ -1164,7 +1164,7 @@ _Display non-editable events in a Calendar_
 - [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker) - ☝️☝️☝️☝️☝️ - ÓTIMO - Possibilita a inserção de ícones como emojis. A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.
 - [tsParticles](https://github.com/matteobruni/tsparticles) - ☝️☝️☝️☝️☝️ - OTIMO - Efeito de partículas veja o [demo](https://particles.js.org/samples/presets/index.html) A lightweight Javascript library to easily create highly configurable and interactive particle animations
 - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
-- [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
+- [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - ☝️☝️☝️☝️☝️ - OTIMO - UI de chat completa Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 - [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 - [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
