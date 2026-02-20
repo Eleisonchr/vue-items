@@ -1162,7 +1162,7 @@ _Display non-editable events in a Calendar_
 - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
 - [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker) - ☝️☝️☝️☝️☝️ - ÓTIMO - Possibilita a inserção de ícones como emojis. A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.
-- [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+- [tsParticles](https://github.com/matteobruni/tsparticles) - ☝️☝️☝️☝️☝️ - OTIMO - Efeito de partículas veja o [demo](https://particles.js.org/samples/presets/index.html) A lightweight Javascript library to easily create highly configurable and interactive particle animations
 - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
