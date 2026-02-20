@@ -1148,7 +1148,7 @@ _Display non-editable events in a Calendar_
 
 #### Search
 
-- [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
+- [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - ☝️☝️ - POTENCIAL - Parece ter potencial mas os links estão quebrados UI components for building data-driven apps with Elasticsearch
 - [vue-search-input](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 #### Miscellaneous
