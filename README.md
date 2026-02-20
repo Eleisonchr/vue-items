@@ -1142,9 +1142,9 @@ _Display non-editable events in a Calendar_
 
 #### QR Code
 
-- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
+- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - ☝️☝️☝️☝️☝️ - OTIMO - Leitor de vários códigos de Barras.
 - [vue3-qr-reader](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
-- [qrcode.vue](https://github.com/scopewu/qrcode.vue) - A Vue.js component to generate qrcode. Supports both Vue 2 and Vue 3.
+- [qrcode.vue](https://github.com/scopewu/qrcode.vue) - ☝️☝️☝️☝️☝️ - OTIMO - Gerador de QRCode Vue 3.
 
 #### Search
 
